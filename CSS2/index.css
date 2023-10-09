@@ -1,0 +1,53 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+}
+
+.carousel-caption{
+
+    bottom: 220px;
+
+    z-index: 2;
+
+}
+
+.carousel-caption h5{
+
+     font-size: 45px;
+
+     text-transform:uppercase;
+
+     letter-spacing: 2px;
+
+     margin-top: 25px;
+
+
+}
+
+
+
+.bi{
+
+
+     font-size: 50px;
+
+}
+
+.socials i{
+
+     font-size: 15px;
+
+   
+
+}
+
+
+@media screen and (min-width: 320px) {
+    body {
+      
+    }
+  }
+
+
